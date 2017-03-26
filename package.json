@@ -1,0 +1,27 @@
+{
+  "name": "expect-server-graphql",
+  "version": "1.0.0",
+  "description": "Expect Server GraphQL",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamcotton/expect-server-graphql.git"
+  },
+  "keywords": [
+    "expect",
+    "server",
+    "graphql"
+  ],
+  "author": "William Cotton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamcotton/expect-server-graphql/issues"
+  },
+  "homepage": "https://github.com/williamcotton/expect-server-graphql#readme"
+}
