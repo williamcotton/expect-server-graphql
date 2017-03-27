@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/williamcotton/expect-server-graphql/issues"
   },
-  "homepage": "https://github.com/williamcotton/expect-server-graphql#readme"
+  "homepage": "https://github.com/williamcotton/expect-server-graphql#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1"
+  }
 }
